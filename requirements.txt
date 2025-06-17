@@ -1,0 +1,4 @@
+streamlit
+requests
+feedparser
+TTS==0.22.0
